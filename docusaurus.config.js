@@ -85,6 +85,13 @@ const config = {
           },
         ],
       },
+      //search
+      algolia: {
+        appId: '92GASGPNL1', // Application ID
+        apiKey: '088f813e1374718e12534cd4b6033845', // Search-Only API Key
+        indexName: 'gh', // config.json에 설정한 인덱스명
+        contextualSearch: true,
+      },
       footer: {
         style: 'dark',
         links: [

@@ -68,6 +68,14 @@ export default {
       ],
       "hideOnScroll": false
     },
+    "algolia": {
+      "appId": "92GASGPNL1",
+      "apiKey": "088f813e1374718e12534cd4b6033845",
+      "indexName": "gh",
+      "contextualSearch": true,
+      "searchParameters": {},
+      "searchPagePath": "search"
+    },
     "footer": {
       "style": "dark",
       "links": [
