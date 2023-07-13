@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "집사의고민",
+  "tagline": "반려동물 먹거리 성분 및 맞춤 리뷰 제공 서비스",
   "favicon": "img/favicon.ico",
   "url": "https://zip-go.github.io",
   "baseUrl": "/",
@@ -43,10 +43,10 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "ZIPGO",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "Zipgo Logo",
+        "src": "img/logo.png"
       },
       "items": [
         {
