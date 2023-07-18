@@ -1,17 +1,47 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+첵스:
+  name : FE_첵스
+  title : 집사의고민 프론트엔드 개발자
+  url : https://github.com/hyeryongchoi
+  image_url: https://github.com/hyeryongchoi.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+노아이즈:
+  name : FE_노아이즈
+  title : 집사의고민 프론트엔드 개발자
+  url : https://github.com/n0eyes
+  image_url: https://github.com/n0eyes.png
+
+
+에디:
+  name : FE_에디
+  title : 집사의고민 프론트엔드 개발자
+  url : https://github.com/ksone02
+  image_url: https://github.com/ksone02.png
+
+
+가비:
+  name : BE_가비
+  title : 집사의고민 백엔드 개발자
+  url : https://github.com/iamjooon2
+  image_url: https://github.com/iamjooon2.png
+
+
+로지:
+  name : BE_로지
+  title : 집사의고민 백엔드 개발자
+  url : https://github.com/kyY00n
+  image_url: https://github.com/kyY00n.png
+
+
+무민:
+  name : BE_무민
+  title : 집사의고민 백엔드 개발자
+  url : https://github.com/parkmuhyeun
+  image_url: https://github.com/parkmuhyeun.png
+
+
+베베:
+  name : BE_베베
+  title : 집사의고민 백엔드 개발자
+  url : https://github.com/wonyongChoi05
+  image_url: https://github.com/wonyongChoi05.png

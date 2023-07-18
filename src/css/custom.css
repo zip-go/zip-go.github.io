@@ -31,6 +31,7 @@
 
 .header-github-link:hover {
   opacity: 0.6;
+  color : #F5F5F5;
 }
 
 .header-github-link:before {
