@@ -58,13 +58,18 @@ export default [
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '51c'),
+    path: '/blog/tags/backend',
+    component: ComponentCreator('/blog/tags/backend', 'f14'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '316'),
+    path: '/blog/tags/jacoco',
+    component: ComponentCreator('/blog/tags/jacoco', 'a57'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/java',
+    component: ComponentCreator('/blog/tags/java', '180'),
     exact: true
   },
   {

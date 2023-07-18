@@ -60,20 +60,24 @@
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-07-19-Jacoco-설정기.md",
             "source": "@site/blog/2023-07-19-Jacoco-설정기.md",
             "title": "집사의고민팀의 Jacoco 적용기",
-            "description": "Jacoco 설정했다 질문받는다",
+            "description": "안녕하세요, 집사의고",
             "date": "2023-07-19T00:00:00.000Z",
             "formattedDate": "July 19, 2023",
             "tags": [
               {
-                "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "label": "backend",
+                "permalink": "/blog/tags/backend"
               },
               {
-                "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "label": "java",
+                "permalink": "/blog/tags/java"
+              },
+              {
+                "label": "jacoco",
+                "permalink": "/blog/tags/jacoco"
               }
             ],
-            "readingTime": 0.05,
+            "readingTime": 1.015,
             "hasTruncateMarker": false,
             "authors": [
               {
@@ -89,12 +93,13 @@
               "title": "집사의고민팀의 Jacoco 적용기",
               "authors": "가비",
               "tags": [
-                "hello",
-                "docusaurus"
+                "backend",
+                "java",
+                "jacoco"
               ]
             }
           },
-          "content": "Jacoco 설정했다 질문받는다"
+          "content": "안녕하세요, 집사의고\n\nJaCoCo는 JVM 진영의 코드 커버리지를 체크하는 라이브러리입니다. 테스트코드를 돌리고 그 커버리지 결과를 눈으로 보기 좋도록 html이나 xml, csv 같은 리포트로 생성합니다. 그리고 테스트 결과가 내가 설정한 커버리지 기준을 만족하는지 확인하는 기능도 있습니다. 저희팀 같은 경우는 프로젝트의 커버리지가 올라갈 때 마다 이 기준을 조금씩 올려가고 있고, 이 커버리지 기준을 만족시키지 못 하면 배포를 하지 못 하게 하고 있습니다. 브랜치 커버리지가 100%인 프로젝트도 있습니다.\n\n\n\n\nReferences\n- https://hudi.blog/dallog-jacoco/\n- https://techblog.woowahan.com/2661/"
         }
       ],
       "blogListPaginated": [
@@ -114,19 +119,19 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/hello": {
-          "label": "hello",
+        "/blog/tags/backend": {
+          "label": "backend",
           "items": [
             "1"
           ],
-          "permalink": "/blog/tags/hello",
+          "permalink": "/blog/tags/backend",
           "pages": [
             {
               "items": [
                 "1"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hello",
+                "permalink": "/blog/tags/backend",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -137,19 +142,42 @@
             }
           ]
         },
-        "/blog/tags/docusaurus": {
-          "label": "docusaurus",
+        "/blog/tags/java": {
+          "label": "java",
           "items": [
             "1"
           ],
-          "permalink": "/blog/tags/docusaurus",
+          "permalink": "/blog/tags/java",
           "pages": [
             {
               "items": [
                 "1"
               ],
               "metadata": {
-                "permalink": "/blog/tags/docusaurus",
+                "permalink": "/blog/tags/java",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/jacoco": {
+          "label": "jacoco",
+          "items": [
+            "1"
+          ],
+          "permalink": "/blog/tags/jacoco",
+          "pages": [
+            {
+              "items": [
+                "1"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/jacoco",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,

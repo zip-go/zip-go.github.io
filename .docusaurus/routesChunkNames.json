@@ -78,7 +78,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "tags": "tags---blog-tagsa-70-da2"
   },
-  "/blog/tags/docusaurus-51c": {
+  "/blog/tags/backend-f14": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-975-21e"
@@ -89,10 +89,10 @@
         "content": "content---blogf-8-a-d23"
       }
     ],
-    "tag": "tag---blog-tags-docusaurusa-80-728",
-    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
+    "tag": "tag---blog-tags-backendc-2-b-3dc",
+    "listMetadata": "listMetadata---blog-tags-backend-15-d-9e4"
   },
-  "/blog/tags/hello-316": {
+  "/blog/tags/jacoco-a57": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-975-21e"
@@ -103,8 +103,22 @@
         "content": "content---blogf-8-a-d23"
       }
     ],
-    "tag": "tag---blog-tags-hello-30-a-bed",
-    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+    "tag": "tag---blog-tags-jacocod-5-c-304",
+    "listMetadata": "listMetadata---blog-tags-jacocof-2-f-c52"
+  },
+  "/blog/tags/java-180": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-975-21e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogf-8-a-d23"
+      }
+    ],
+    "tag": "tag---blog-tags-javaa-4-a-9bc",
+    "listMetadata": "listMetadata---blog-tags-javac-10-da8"
   },
   "/markdown-page-716": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
