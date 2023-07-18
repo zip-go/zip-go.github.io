@@ -102,12 +102,12 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 Built with Docusaurus."
     },
     "prism": {
       "theme": {
         "plain": {
-          "color": "#393A34",
+          "color": "#F5F5F5",
           "backgroundColor": "#f6f8fa"
         },
         "styles": [
@@ -202,7 +202,7 @@ export default {
               "keyword"
             ],
             "style": {
-              "color": "#00009f"
+              "color": "#F5F5F5"
             }
           }
         ]
