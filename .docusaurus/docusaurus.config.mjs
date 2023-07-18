@@ -6,7 +6,7 @@
 export default {
   "title": "집사의고민",
   "tagline": "반려동물 먹거리 성분 및 맞춤 리뷰 제공 서비스",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/logo.png",
   "url": "https://zip-go.github.io",
   "baseUrl": "/",
   "organizationName": "zip-go",
@@ -27,7 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/parkmuhyeun/Documents/zip-go.github.io/sidebars.js",
+          "sidebarPath": "/Users/jooon/dev/woowacourse/team-blog-zipgo/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -35,7 +35,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/parkmuhyeun/Documents/zip-go.github.io/src/css/custom.css"
+          "customCss": "/Users/jooon/dev/woowacourse/team-blog-zipgo/src/css/custom.css"
         }
       }
     ]
@@ -61,7 +61,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/woowacourse-teams/2023-zipgo",
           "label": "GitHub",
           "position": "right"
         }
@@ -83,25 +83,8 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "wiki",
+              "href": "https://github.com/woowacourse-teams/2023-zipgo/wiki"
             }
           ]
         },
@@ -114,7 +97,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/woowacourse-teams/2023-zipgo"
             }
           ]
         }
