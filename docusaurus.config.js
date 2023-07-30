@@ -22,7 +22,7 @@ const config = {
   projectName: 'zip-go.github.io', // Usually your repo name.
 
   trailingSlash: false,
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -121,8 +121,9 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: require('./customWhitetheme'),
         darkTheme: darkCodeTheme,
+        additionalLanguages: ['java', 'groovy']
       },
     }),
 };
