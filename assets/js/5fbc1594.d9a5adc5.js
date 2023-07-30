@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[392],{8100:e=>{e.exports=JSON.parse('{"label":"SwaggerUI","permalink":"/blog/tags/swagger-ui","allTagsPath":"/blog/tags","count":1}')}}]);
