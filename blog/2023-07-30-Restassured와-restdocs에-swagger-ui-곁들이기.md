@@ -170,11 +170,15 @@ generateSwaggerUIRosieProject {
 	doLast { // ui 파일들이 생성되고 난 뒤
 		copy { // 정적 리소스 디렉토리로 복사
 			from outputDir.toPath()
-			into "src/main/resources/static/docs/" // 원하는 곳으로 하시면 돼요
+			into "build/resources/main/static/docs" // jar 파일에 포한되려면 build/ 내의 위치로 설정해야합니다!
 		}
 	}
 }
 ```
+
+[2023.08.05 수정]
+
+이전에 제가 실수로 src 하위에 (src/main/resources/static/docs) 파일을 복사하도록 했는데, 이렇게하면 jar 패키징에 생성한 ui파일들이 포함되지 않습니다~
 
 ### bootJar 태스크 설정
 
