@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/">
+            to="https://zipgo.pet">
             홈페이지 바로가기
           </Link>
         </div>
